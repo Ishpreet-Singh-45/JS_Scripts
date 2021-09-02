@@ -1,0 +1,1262 @@
+[
+    {
+        "id": 1015,
+        "datasource_id": 134,
+        "ticker_id": 983,
+        "name": "test111",
+        "alias": "test111",
+        "symbol": "ILMN",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "09:12:00"
+    },
+    {
+        "id": 1014,
+        "datasource_id": 134,
+        "ticker_id": 982,
+        "name": "test111",
+        "alias": "test111",
+        "symbol": "DLTR",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "10:52:00"
+    },
+    {
+        "id": 1013,
+        "datasource_id": 133,
+        "ticker_id": 981,
+        "name": "testing",
+        "alias": "testrun",
+        "symbol": "ILMN",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "09:12:00"
+    },
+    {
+        "id": 1012,
+        "datasource_id": 133,
+        "ticker_id": 980,
+        "name": "testing",
+        "alias": "testrun",
+        "symbol": "DLTR",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "10:52:00"
+    },
+    {
+        "id": 1011,
+        "datasource_id": 132,
+        "ticker_id": 979,
+        "name": "test",
+        "alias": "run",
+        "symbol": "ILMN",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "09:12:00"
+    },
+    {
+        "id": 1010,
+        "datasource_id": 132,
+        "ticker_id": 978,
+        "name": "test",
+        "alias": "run",
+        "symbol": "DLTR",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "10:52:00"
+    },
+    {
+        "id": 971,
+        "datasource_id": 131,
+        "ticker_id": 939,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "PBR",
+        "date": "2021-03-15T00:00:00.000Z",
+        "time": "10:10:00"
+    },
+    {
+        "id": 970,
+        "datasource_id": 131,
+        "ticker_id": 938,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "ACN",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "10:04:00"
+    },
+    {
+        "id": 977,
+        "datasource_id": 131,
+        "ticker_id": 945,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "PGNY",
+        "date": "2021-03-10T00:00:00.000Z",
+        "time": "06:01:00"
+    },
+    {
+        "id": 1007,
+        "datasource_id": 131,
+        "ticker_id": 975,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "AEE",
+        "date": "2021-04-13T00:00:00.000Z",
+        "time": "06:29:00"
+    },
+    {
+        "id": 1006,
+        "datasource_id": 131,
+        "ticker_id": 974,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "FOUR",
+        "date": "2021-03-11T00:00:00.000Z",
+        "time": "06:29:00"
+    },
+    {
+        "id": 1005,
+        "datasource_id": 131,
+        "ticker_id": 973,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "USB",
+        "date": "2021-04-12T00:00:00.000Z",
+        "time": "06:28:00"
+    },
+    {
+        "id": 1004,
+        "datasource_id": 131,
+        "ticker_id": 972,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "FGEN",
+        "date": "2021-03-31T00:00:00.000Z",
+        "time": "06:27:00"
+    },
+    {
+        "id": 1003,
+        "datasource_id": 131,
+        "ticker_id": 971,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "LUNG",
+        "date": "2021-03-10T00:00:00.000Z",
+        "time": "06:25:00"
+    },
+    {
+        "id": 1009,
+        "datasource_id": 131,
+        "ticker_id": 977,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "STLD",
+        "date": "2021-04-20T00:00:00.000Z",
+        "time": "06:31:00"
+    },
+    {
+        "id": 1008,
+        "datasource_id": 131,
+        "ticker_id": 976,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "SEDG",
+        "date": "2021-05-10T00:00:00.000Z",
+        "time": "06:30:00"
+    },
+    {
+        "id": 976,
+        "datasource_id": 131,
+        "ticker_id": 944,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "UPST",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "15:18:00"
+    },
+    {
+        "id": 975,
+        "datasource_id": 131,
+        "ticker_id": 943,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "TCBI",
+        "date": "2021-03-29T00:00:00.000Z",
+        "time": "15:03:00"
+    },
+    {
+        "id": 974,
+        "datasource_id": 131,
+        "ticker_id": 942,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "CCL",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "12:54:00"
+    },
+    {
+        "id": 973,
+        "datasource_id": 131,
+        "ticker_id": 941,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "EC",
+        "date": "2021-03-15T00:00:00.000Z",
+        "time": "10:34:00"
+    },
+    {
+        "id": 972,
+        "datasource_id": 131,
+        "ticker_id": 940,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "TGI",
+        "date": "2021-03-04T00:00:00.000Z",
+        "time": "10:31:00"
+    },
+    {
+        "id": 996,
+        "datasource_id": 131,
+        "ticker_id": 964,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "BK",
+        "date": "2021-03-24T00:00:00.000Z",
+        "time": "06:15:00"
+    },
+    {
+        "id": 995,
+        "datasource_id": 131,
+        "ticker_id": 963,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "COP",
+        "date": "2021-05-05T00:00:00.000Z",
+        "time": "06:15:00"
+    },
+    {
+        "id": 994,
+        "datasource_id": 131,
+        "ticker_id": 962,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "ZNGA",
+        "date": "2021-05-06T00:00:00.000Z",
+        "time": "06:14:00"
+    },
+    {
+        "id": 993,
+        "datasource_id": 131,
+        "ticker_id": 961,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "DISCA",
+        "date": "2021-04-29T00:00:00.000Z",
+        "time": "06:13:00"
+    },
+    {
+        "id": 992,
+        "datasource_id": 131,
+        "ticker_id": 960,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "DFS",
+        "date": "2021-04-26T00:00:00.000Z",
+        "time": "06:08:00"
+    },
+    {
+        "id": 991,
+        "datasource_id": 131,
+        "ticker_id": 959,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "IHRT",
+        "date": "2021-04-13T00:00:00.000Z",
+        "time": "06:08:00"
+    },
+    {
+        "id": 990,
+        "datasource_id": 131,
+        "ticker_id": 958,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "NLOK",
+        "date": "2021-05-12T00:00:00.000Z",
+        "time": "06:06:00"
+    },
+    {
+        "id": 989,
+        "datasource_id": 131,
+        "ticker_id": 957,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "VIAC",
+        "date": "2021-05-20T00:00:00.000Z",
+        "time": "06:05:00"
+    },
+    {
+        "id": 988,
+        "datasource_id": 131,
+        "ticker_id": 956,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "LW",
+        "date": "2021-04-05T00:00:00.000Z",
+        "time": "06:05:00"
+    },
+    {
+        "id": 987,
+        "datasource_id": 131,
+        "ticker_id": 955,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "ZTS",
+        "date": "2021-03-08T00:00:00.000Z",
+        "time": "06:03:00"
+    },
+    {
+        "id": 986,
+        "datasource_id": 131,
+        "ticker_id": 954,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "CVNA",
+        "date": "2021-05-03T00:00:00.000Z",
+        "time": "06:03:00"
+    },
+    {
+        "id": 985,
+        "datasource_id": 131,
+        "ticker_id": 953,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "FMX",
+        "date": "2021-03-09T00:00:00.000Z",
+        "time": "06:02:00"
+    },
+    {
+        "id": 984,
+        "datasource_id": 131,
+        "ticker_id": 952,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "SJI",
+        "date": "2021-03-22T00:00:00.000Z",
+        "time": "06:02:00"
+    },
+    {
+        "id": 983,
+        "datasource_id": 131,
+        "ticker_id": 951,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "COLM",
+        "date": "2021-03-22T00:00:00.000Z",
+        "time": "06:02:00"
+    },
+    {
+        "id": 982,
+        "datasource_id": 131,
+        "ticker_id": 950,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "BSAC",
+        "date": "2021-05-04T00:00:00.000Z",
+        "time": "06:02:00"
+    },
+    {
+        "id": 981,
+        "datasource_id": 131,
+        "ticker_id": 949,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "NNN",
+        "date": "2021-04-07T00:00:00.000Z",
+        "time": "06:01:00"
+    },
+    {
+        "id": 980,
+        "datasource_id": 131,
+        "ticker_id": 948,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "HBM",
+        "date": "2021-04-06T00:00:00.000Z",
+        "time": "06:01:00"
+    },
+    {
+        "id": 979,
+        "datasource_id": 131,
+        "ticker_id": 947,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "EPRT",
+        "date": "2021-04-07T00:00:00.000Z",
+        "time": "06:01:00"
+    },
+    {
+        "id": 978,
+        "datasource_id": 131,
+        "ticker_id": 946,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "EPR",
+        "date": "2021-04-07T00:00:00.000Z",
+        "time": "06:01:00"
+    },
+    {
+        "id": 1002,
+        "datasource_id": 131,
+        "ticker_id": 970,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "SWAV",
+        "date": "2021-05-11T00:00:00.000Z",
+        "time": "06:25:00"
+    },
+    {
+        "id": 1001,
+        "datasource_id": 131,
+        "ticker_id": 969,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "CCEP",
+        "date": "2021-05-17T00:00:00.000Z",
+        "time": "06:25:00"
+    },
+    {
+        "id": 1000,
+        "datasource_id": 131,
+        "ticker_id": 968,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "XM",
+        "date": "2021-05-19T00:00:00.000Z",
+        "time": "06:24:00"
+    },
+    {
+        "id": 999,
+        "datasource_id": 131,
+        "ticker_id": 967,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "CMI",
+        "date": "2021-05-17T00:00:00.000Z",
+        "time": "06:24:00"
+    },
+    {
+        "id": 998,
+        "datasource_id": 131,
+        "ticker_id": 966,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "OII",
+        "date": "2021-05-05T00:00:00.000Z",
+        "time": "06:15:00"
+    },
+    {
+        "id": 997,
+        "datasource_id": 131,
+        "ticker_id": 965,
+        "name": "jesse",
+        "alias": "Test 5",
+        "symbol": "CME",
+        "date": "2021-03-24T00:00:00.000Z",
+        "time": "06:15:00"
+    },
+    {
+        "id": 956,
+        "datasource_id": 122,
+        "ticker_id": 924,
+        "name": "ISRG & IDXX",
+        "alias": "ISRGIDXX",
+        "symbol": "ISRG",
+        "date": "2020-09-02T00:00:00.000Z",
+        "time": "15:57:00"
+    },
+    {
+        "id": 957,
+        "datasource_id": 122,
+        "ticker_id": 925,
+        "name": "ISRG & IDXX",
+        "alias": "ISRGIDXX",
+        "symbol": "IDXX",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "10:52:00"
+    },
+    {
+        "id": 955,
+        "datasource_id": 121,
+        "ticker_id": 923,
+        "name": "Test Upload 1",
+        "alias": "Test Alias 1",
+        "symbol": "KDP",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "09:32:00"
+    },
+    {
+        "id": 952,
+        "datasource_id": 121,
+        "ticker_id": 920,
+        "name": "Test Upload 1",
+        "alias": "Test Alias 1",
+        "symbol": "CSX",
+        "date": "2020-09-02T00:00:00.000Z",
+        "time": "15:57:00"
+    },
+    {
+        "id": 954,
+        "datasource_id": 121,
+        "ticker_id": 922,
+        "name": "Test Upload 1",
+        "alias": "Test Alias 1",
+        "symbol": "GILD",
+        "date": "2020-07-07T00:00:00.000Z",
+        "time": "14:15:00"
+    },
+    {
+        "id": 953,
+        "datasource_id": 121,
+        "ticker_id": 921,
+        "name": "Test Upload 1",
+        "alias": "Test Alias 1",
+        "symbol": "EA",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "10:52:00"
+    },
+    {
+        "id": 951,
+        "datasource_id": 120,
+        "ticker_id": 919,
+        "name": "Jesse 1",
+        "alias": "Jesse3",
+        "symbol": "UPST",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "15:18:00"
+    },
+    {
+        "id": 948,
+        "datasource_id": 120,
+        "ticker_id": 916,
+        "name": "Jesse 1",
+        "alias": "Jesse3",
+        "symbol": "EC",
+        "date": "2021-03-15T00:00:00.000Z",
+        "time": "10:34:00"
+    },
+    {
+        "id": 945,
+        "datasource_id": 120,
+        "ticker_id": 913,
+        "name": "Jesse 1",
+        "alias": "Jesse3",
+        "symbol": "ACN",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "10:04:00"
+    },
+    {
+        "id": 946,
+        "datasource_id": 120,
+        "ticker_id": 914,
+        "name": "Jesse 1",
+        "alias": "Jesse3",
+        "symbol": "PBR",
+        "date": "2021-03-15T00:00:00.000Z",
+        "time": "10:10:00"
+    },
+    {
+        "id": 947,
+        "datasource_id": 120,
+        "ticker_id": 915,
+        "name": "Jesse 1",
+        "alias": "Jesse3",
+        "symbol": "TGI",
+        "date": "2021-03-04T00:00:00.000Z",
+        "time": "10:31:00"
+    },
+    {
+        "id": 949,
+        "datasource_id": 120,
+        "ticker_id": 917,
+        "name": "Jesse 1",
+        "alias": "Jesse3",
+        "symbol": "CCL",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "12:54:00"
+    },
+    {
+        "id": 950,
+        "datasource_id": 120,
+        "ticker_id": 918,
+        "name": "Jesse 1",
+        "alias": "Jesse3",
+        "symbol": "TCBI",
+        "date": "2021-03-29T00:00:00.000Z",
+        "time": "15:03:00"
+    },
+    {
+        "id": 939,
+        "datasource_id": 119,
+        "ticker_id": 907,
+        "name": "Check DS 8",
+        "alias": "Check Alias 8",
+        "symbol": "CHTR",
+        "date": "2020-06-15T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 944,
+        "datasource_id": 119,
+        "ticker_id": 912,
+        "name": "Check DS 8",
+        "alias": "Check Alias 8",
+        "symbol": "FOX",
+        "date": "2020-09-02T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 943,
+        "datasource_id": 119,
+        "ticker_id": 911,
+        "name": "Check DS 8",
+        "alias": "Check Alias 8",
+        "symbol": "FAST",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 942,
+        "datasource_id": 119,
+        "ticker_id": 910,
+        "name": "Check DS 8",
+        "alias": "Check Alias 8",
+        "symbol": "EXC",
+        "date": "2020-07-07T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 941,
+        "datasource_id": 119,
+        "ticker_id": 909,
+        "name": "Check DS 8",
+        "alias": "Check Alias 8",
+        "symbol": "EA",
+        "date": "2020-02-18T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 940,
+        "datasource_id": 119,
+        "ticker_id": 908,
+        "name": "Check DS 8",
+        "alias": "Check Alias 8",
+        "symbol": "CMCSA",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 933,
+        "datasource_id": 118,
+        "ticker_id": 901,
+        "name": "Check DS 1",
+        "alias": "Check Alias 1",
+        "symbol": "TXN",
+        "date": "2021-03-04T00:00:00.000Z",
+        "time": "10:31:00"
+    },
+    {
+        "id": 931,
+        "datasource_id": 118,
+        "ticker_id": 899,
+        "name": "Check DS 1",
+        "alias": "Check Alias 1",
+        "symbol": "OKTA",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "10:04:00"
+    },
+    {
+        "id": 932,
+        "datasource_id": 118,
+        "ticker_id": 900,
+        "name": "Check DS 1",
+        "alias": "Check Alias 1",
+        "symbol": "QCOM",
+        "date": "2021-03-15T00:00:00.000Z",
+        "time": "10:10:00"
+    },
+    {
+        "id": 934,
+        "datasource_id": 118,
+        "ticker_id": 902,
+        "name": "Check DS 1",
+        "alias": "Check Alias 1",
+        "symbol": "SIRI",
+        "date": "2021-03-15T00:00:00.000Z",
+        "time": "10:34:00"
+    },
+    {
+        "id": 935,
+        "datasource_id": 118,
+        "ticker_id": 903,
+        "name": "Check DS 1",
+        "alias": "Check Alias 1",
+        "symbol": "PCAR",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "12:54:00"
+    },
+    {
+        "id": 936,
+        "datasource_id": 118,
+        "ticker_id": 904,
+        "name": "Check DS 1",
+        "alias": "Check Alias 1",
+        "symbol": "PTON",
+        "date": "2021-03-29T00:00:00.000Z",
+        "time": "15:03:00"
+    },
+    {
+        "id": 937,
+        "datasource_id": 118,
+        "ticker_id": 905,
+        "name": "Check DS 1",
+        "alias": "Check Alias 1",
+        "symbol": "MTCH",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "15:18:00"
+    },
+    {
+        "id": 938,
+        "datasource_id": 118,
+        "ticker_id": 906,
+        "name": "Check DS 1",
+        "alias": "Check Alias 1",
+        "symbol": "MRNA",
+        "date": "2021-03-10T00:00:00.000Z",
+        "time": "14:40:00"
+    },
+    {
+        "id": 925,
+        "datasource_id": 117,
+        "ticker_id": 893,
+        "name": "Test year change",
+        "alias": "Year change test",
+        "symbol": "PBR",
+        "date": "2021-03-15T00:00:00.000Z",
+        "time": "10:10:00"
+    },
+    {
+        "id": 924,
+        "datasource_id": 117,
+        "ticker_id": 892,
+        "name": "Test year change",
+        "alias": "Year change test",
+        "symbol": "ACN",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "10:04:00"
+    },
+    {
+        "id": 930,
+        "datasource_id": 117,
+        "ticker_id": 898,
+        "name": "Test year change",
+        "alias": "Year change test",
+        "symbol": "UPST",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "15:18:00"
+    },
+    {
+        "id": 929,
+        "datasource_id": 117,
+        "ticker_id": 897,
+        "name": "Test year change",
+        "alias": "Year change test",
+        "symbol": "TCBI",
+        "date": "2021-03-29T00:00:00.000Z",
+        "time": "15:03:00"
+    },
+    {
+        "id": 928,
+        "datasource_id": 117,
+        "ticker_id": 896,
+        "name": "Test year change",
+        "alias": "Year change test",
+        "symbol": "CCL",
+        "date": "2021-03-18T00:00:00.000Z",
+        "time": "12:54:00"
+    },
+    {
+        "id": 927,
+        "datasource_id": 117,
+        "ticker_id": 895,
+        "name": "Test year change",
+        "alias": "Year change test",
+        "symbol": "EC",
+        "date": "2021-03-15T00:00:00.000Z",
+        "time": "10:34:00"
+    },
+    {
+        "id": 926,
+        "datasource_id": 117,
+        "ticker_id": 894,
+        "name": "Test year change",
+        "alias": "Year change test",
+        "symbol": "TGI",
+        "date": "2021-03-04T00:00:00.000Z",
+        "time": "10:31:00"
+    },
+    {
+        "id": 843,
+        "datasource_id": 90,
+        "ticker_id": 811,
+        "name": "Testing Bypass",
+        "alias": "Faulty Tickers",
+        "symbol": "TXN",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "10:52:00"
+    },
+    {
+        "id": 844,
+        "datasource_id": 90,
+        "ticker_id": 812,
+        "name": "Testing Bypass",
+        "alias": "Faulty Tickers",
+        "symbol": "SNPS",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "09:12:00"
+    },
+    {
+        "id": 842,
+        "datasource_id": 89,
+        "ticker_id": 810,
+        "name": "ANSS to CPRT",
+        "alias": "ANSS_CPRT",
+        "symbol": "CPRT",
+        "date": "2020-06-15T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 841,
+        "datasource_id": 89,
+        "ticker_id": 809,
+        "name": "ANSS to CPRT",
+        "alias": "ANSS_CPRT",
+        "symbol": "CDNS",
+        "date": "2020-02-18T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 840,
+        "datasource_id": 89,
+        "ticker_id": 808,
+        "name": "ANSS to CPRT",
+        "alias": "ANSS_CPRT",
+        "symbol": "BMRN",
+        "date": "2020-07-07T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 839,
+        "datasource_id": 89,
+        "ticker_id": 807,
+        "name": "ANSS to CPRT",
+        "alias": "ANSS_CPRT",
+        "symbol": "ATVI",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "14:12:00"
+    },
+    {
+        "id": 837,
+        "datasource_id": 89,
+        "ticker_id": 805,
+        "name": "ANSS to CPRT",
+        "alias": "ANSS_CPRT",
+        "symbol": "ANSS",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "09:52:00"
+    },
+    {
+        "id": 838,
+        "datasource_id": 89,
+        "ticker_id": 806,
+        "name": "ANSS to CPRT",
+        "alias": "ANSS_CPRT",
+        "symbol": "ASML",
+        "date": "2020-09-02T00:00:00.000Z",
+        "time": "00:57:00"
+    },
+    {
+        "id": 821,
+        "datasource_id": 88,
+        "ticker_id": 789,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "QCOM",
+        "date": "2020-05-04T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 820,
+        "datasource_id": 88,
+        "ticker_id": 788,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "BBBY",
+        "date": "2020-03-26T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 819,
+        "datasource_id": 88,
+        "ticker_id": 787,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "EA",
+        "date": "2020-02-11T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 818,
+        "datasource_id": 88,
+        "ticker_id": 786,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "NVR",
+        "date": "2020-11-06T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 824,
+        "datasource_id": 88,
+        "ticker_id": 792,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "SNAP",
+        "date": "2020-10-19T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 836,
+        "datasource_id": 88,
+        "ticker_id": 804,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "CTAS",
+        "date": "2020-01-03T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 835,
+        "datasource_id": 88,
+        "ticker_id": 803,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "VALE",
+        "date": "2020-05-25T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 834,
+        "datasource_id": 88,
+        "ticker_id": 802,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "IPGP",
+        "date": "2020-04-22T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 833,
+        "datasource_id": 88,
+        "ticker_id": 801,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "NVRO",
+        "date": "2020-03-20T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 832,
+        "datasource_id": 88,
+        "ticker_id": 800,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "DE",
+        "date": "2020-07-15T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 831,
+        "datasource_id": 88,
+        "ticker_id": 799,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "INTC",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 830,
+        "datasource_id": 88,
+        "ticker_id": 798,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "NSC",
+        "date": "2020-04-01T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 829,
+        "datasource_id": 88,
+        "ticker_id": 797,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "PH",
+        "date": "2020-12-17T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 828,
+        "datasource_id": 88,
+        "ticker_id": 796,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "BAP",
+        "date": "2020-09-08T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 827,
+        "datasource_id": 88,
+        "ticker_id": 795,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "F",
+        "date": "2020-05-11T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 826,
+        "datasource_id": 88,
+        "ticker_id": 794,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "PSA",
+        "date": "2020-07-20T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 825,
+        "datasource_id": 88,
+        "ticker_id": 793,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "TWTR",
+        "date": "2020-01-10T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 823,
+        "datasource_id": 88,
+        "ticker_id": 791,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "CRON",
+        "date": "2020-06-05T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 822,
+        "datasource_id": 88,
+        "ticker_id": 790,
+        "name": "Jessestest2",
+        "alias": "Test3",
+        "symbol": "AAPL",
+        "date": "2020-03-11T00:00:00.000Z",
+        "time": "15:55:00"
+    },
+    {
+        "id": 811,
+        "datasource_id": 87,
+        "ticker_id": 779,
+        "name": "CCEP-NVAX",
+        "alias": "ccep to nvax",
+        "symbol": "EIX",
+        "date": "2020-02-28T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 812,
+        "datasource_id": 87,
+        "ticker_id": 780,
+        "name": "CCEP-NVAX",
+        "alias": "ccep to nvax",
+        "symbol": "IRTC",
+        "date": "2020-02-28T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 813,
+        "datasource_id": 87,
+        "ticker_id": 781,
+        "name": "CCEP-NVAX",
+        "alias": "ccep to nvax",
+        "symbol": "LLY",
+        "date": "2020-07-21T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 814,
+        "datasource_id": 87,
+        "ticker_id": 782,
+        "name": "CCEP-NVAX",
+        "alias": "ccep to nvax",
+        "symbol": "EW",
+        "date": "2020-04-24T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 815,
+        "datasource_id": 87,
+        "ticker_id": 783,
+        "name": "CCEP-NVAX",
+        "alias": "ccep to nvax",
+        "symbol": "NVAX",
+        "date": "2020-03-27T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 816,
+        "datasource_id": 87,
+        "ticker_id": 784,
+        "name": "CCEP-NVAX",
+        "alias": "ccep to nvax",
+        "symbol": "DXCM",
+        "date": "2020-02-14T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 817,
+        "datasource_id": 87,
+        "ticker_id": 785,
+        "name": "CCEP-NVAX",
+        "alias": "ccep to nvax",
+        "symbol": "CCEP",
+        "date": "2020-02-14T00:00:00.000Z",
+        "time": "12:00:00"
+    },
+    {
+        "id": 810,
+        "datasource_id": 86,
+        "ticker_id": 778,
+        "name": "Intel to Tesla",
+        "alias": "INTC-TSLA",
+        "symbol": "TSLA",
+        "date": "2020-06-15T00:00:00.000Z",
+        "time": "11:17:00"
+    },
+    {
+        "id": 809,
+        "datasource_id": 86,
+        "ticker_id": 777,
+        "name": "Intel to Tesla",
+        "alias": "INTC-TSLA",
+        "symbol": "ZM",
+        "date": "2020-02-18T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 808,
+        "datasource_id": 86,
+        "ticker_id": 776,
+        "name": "Intel to Tesla",
+        "alias": "INTC-TSLA",
+        "symbol": "SBUX",
+        "date": "2020-07-07T00:00:00.000Z",
+        "time": "10:50:00"
+    },
+    {
+        "id": 807,
+        "datasource_id": 86,
+        "ticker_id": 775,
+        "name": "Intel to Tesla",
+        "alias": "INTC-TSLA",
+        "symbol": "PYPL",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "14:12:00"
+    },
+    {
+        "id": 806,
+        "datasource_id": 86,
+        "ticker_id": 774,
+        "name": "Intel to Tesla",
+        "alias": "INTC-TSLA",
+        "symbol": "NFLX",
+        "date": "2020-09-02T00:00:00.000Z",
+        "time": "00:57:00"
+    },
+    {
+        "id": 805,
+        "datasource_id": 86,
+        "ticker_id": 773,
+        "name": "Intel to Tesla",
+        "alias": "INTC-TSLA",
+        "symbol": "INTC",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "09:52:00"
+    },
+    {
+        "id": 761,
+        "datasource_id": 83,
+        "ticker_id": 729,
+        "name": "AMD to Marvel",
+        "alias": "AMD-MRVL",
+        "symbol": "AMD",
+        "date": "2020-01-06T00:00:00.000Z",
+        "time": "09:42:00"
+    },
+    {
+        "id": 766,
+        "datasource_id": 83,
+        "ticker_id": 734,
+        "name": "AMD to Marvel",
+        "alias": "AMD-MRVL",
+        "symbol": "MRVL",
+        "date": "2020-06-15T00:00:00.000Z",
+        "time": "11:57:00"
+    },
+    {
+        "id": 765,
+        "datasource_id": 83,
+        "ticker_id": 733,
+        "name": "AMD to Marvel",
+        "alias": "AMD-MRVL",
+        "symbol": "CTSH",
+        "date": "2020-02-18T00:00:00.000Z",
+        "time": "09:30:00"
+    },
+    {
+        "id": 764,
+        "datasource_id": 83,
+        "ticker_id": 732,
+        "name": "AMD to Marvel",
+        "alias": "AMD-MRVL",
+        "symbol": "ADSK",
+        "date": "2020-07-07T00:00:00.000Z",
+        "time": "11:57:00"
+    },
+    {
+        "id": 763,
+        "datasource_id": 83,
+        "ticker_id": 731,
+        "name": "AMD to Marvel",
+        "alias": "AMD-MRVL",
+        "symbol": "TEAM",
+        "date": "2020-04-15T00:00:00.000Z",
+        "time": "09:42:00"
+    },
+    {
+        "id": 762,
+        "datasource_id": 83,
+        "ticker_id": 730,
+        "name": "AMD to Marvel",
+        "alias": "AMD-MRVL",
+        "symbol": "ADBE",
+        "date": "2020-09-02T00:00:00.000Z",
+        "time": "11:57:00"
+    }
+]
