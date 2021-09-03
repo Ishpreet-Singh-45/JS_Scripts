@@ -1,13 +1,15 @@
 
-const Data = require('./Data.json')
+const Data = require('./Data.json') // import the JSON file
 
 
 function groupBy(list, keyGetter) 
 {
 	const map = new Map();
-	list.forEach((item) => {
+	list.forEach( (item) => 
+	{
 		const key = keyGetter(item);
 		const collection = map.get(key);
+		
 		if (!collection) 
 		{
 			map.set(key, [item]);
@@ -32,19 +34,10 @@ function grouped(list, keyGetter)
 }
 
 
-const pets = [
-{type:"Dog", name:"Spot"},
-{type:"Cat", name:"Tiger"},
-{type:"Dog", name:"Rover"}, 
-{type:"Cat", name:"Leo"}
-];
 
-const d = [4, 5, 23, 34, 5]
+const group = groupBy(Data, d => d.datasource_id)
 
+console.log(group) // to get grouped data
 
-const group = grouped(pets, p => p.type)
-// console.log(group)
+console.log(group.get(83)) // to get particular data
 
-
-a=[1,2,3,4,5]
-console.log(typeof a)
