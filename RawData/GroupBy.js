@@ -23,8 +23,12 @@ function GroupBy(data, keyGetter)
 		}
 	})
 	
-	return map
+	return [...map]
 }
+
+
+
+
 
 function verifyDate(dateString)
 {
