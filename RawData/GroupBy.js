@@ -5,21 +5,13 @@ function GroupBy(data, keyGetter)
 	data.forEach( (item) =>
 	{
 		const key = keyGetter(item)
-		if(verifyDate(String(key)))
+		const collection = map.get(key)
+		if(!collection)
 		{
-			const collection = map.get(key)
-			if(!collection)
-			{
-				map.set(key, [item])
-			}else
-			{
-				collection.push(item)
-			}
+			map.set(key, [item])
 		}else
 		{
-			console.log('Date Format is wrong. Please check the format. ')
-			console.log(item)
-			return
+			collection.push(item)
 		}
 	})
 	
@@ -27,7 +19,14 @@ function GroupBy(data, keyGetter)
 }
 
 
-
+function groupBy( data, key)
+{
+	return data.reduce( (value, elem) =>
+	{
+		( value[ elem[key] ] = value[ elem[key] ] || []).push(elem)
+		return value
+	}, {})
+}
 
 
 function verifyDate(dateString)
@@ -52,4 +51,4 @@ verifyDate('1-01-2015')
 
 
 
-module.exports = GroupBy
+module.exports = groupBy
