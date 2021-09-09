@@ -25,42 +25,38 @@ const filteredData = data.map( (item) =>
 })
 
 
-const groupedData = GroupBy_Object(filteredData, 'year') // returns an array of objects 
-const groupedDataKeys = Object.keys(groupedData)
+finalArray = [] // declare an empty array for the final result
 
-groupedDataKeys.forEach( (year) =>
+
+// group the data acc to week number
+const group = GroupBy_Object(filteredData, 'week') // returns an object
+const groupKeys = Object.keys(group) // extract its all keys
+
+// groupedData[year] = group
+
+
+// for every element in keys of the required data
+groupKeys.forEach( (item) =>
 {
-	// group the data acc to week number
-	const group = GroupBy_Object(groupedData[year], 'week') // returns an object
-	const groupKeys = Object.keys(group) // extract its all keys
+	const newObject = {} // initialize a new object
 
-	console.log(group)
-	/*
-	var finalArray = [] // declare an empty array for the final result
+	let count = group[item].length // the total objects
 
-	// for every element in keys of the required data
-	groupKeys.forEach( (item) =>
-	{
-		const newObject = {} // initialize a new object
-
-		let count = group[item].length // the total objects
-
-		// insert the variables inside new object
-		let startDate = group[item][0].date
-		let endDate = group[item][count-1].date
-		let week = item
-		newObject[week] = {
-				startDate: startDate,
-				endDate: endDate,
-				count: count,
-				week: week
-			}
-		// Finally, Happily! push the object and make a new array of objects
-		finalArray.push(newObject)
-	})*/
+	// insert the variables inside new object
+	let startDate = group[item][0].date
+	let endDate = group[item][count-1].date
+	let week = item
+	newObject[week] = {
+			startDate: startDate,
+			endDate: endDate,
+			count: count,
+			week: week
+		}
+	// Finally, Happily! push the object and make a new array of objects
+	finalArray.push(newObject)
 })
 
 
+console.log(finalArray)
 
-
-
+// console.log(finalArray)
