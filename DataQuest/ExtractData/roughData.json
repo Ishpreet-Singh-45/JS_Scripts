@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "date": "03/27/2020",
+            "label": "05:05 AM",
+            "volume": 0,
+            "high": 35.14,
+            "priceChangePercent": 9.44,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "03/27/2020",
+            "label": "05:10 AM",
+            "volume": 0,
+            "high": 35.14,
+            "priceChangePercent": 9.44,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "04/27/2020",
+            "label": "05:15 AM",
+            "volume": 0,
+            "high": 35.14,
+            "priceChangePercent": 9.44,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "04/27/2020",
+            "label": "05:20 AM",
+            "volume": 0,
+            "high": 35.14,
+            "priceChangePercent": 9.44,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "01/27/2020",
+            "label": "05:25 AM",
+            "volume": 0,
+            "high": 35.14,
+            "priceChangePercent": 9.44,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "01/27/2020",
+            "label": "05:30 AM",
+            "volume": 0,
+            "high": 35.14,
+            "priceChangePercent": 9.44,
+            "volumeChangePercent": -100
+        }
+    ]
+}
+
