@@ -13,6 +13,8 @@ function removeTags(text)
 	}else
 	{
 		// check for paired tags in string
-		const paired_regex = 
+
 	}
 }
+const paired_regex = /e/
+console.log(paired_regex.exec('The Free'))
