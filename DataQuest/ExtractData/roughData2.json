@@ -1,0 +1,77 @@
+{
+    "data": [
+        {
+            "date": "03/30/2020",
+            "label": "06:20 AM",
+            "volume": 0,
+            "high": 34.01,
+            "priceChangePercent": 5.92,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "03/30/2020",
+            "label": "06:25 AM",
+            "volume": 0,
+            "high": 34.01,
+            "priceChangePercent": 5.92,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "03/30/2020",
+            "label": "06:30 AM",
+            "volume": 0,
+            "high": 34.01,
+            "priceChangePercent": 5.92,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "03/30/2020",
+            "label": "06:35 AM",
+            "volume": 0,
+            "high": 34.01,
+            "priceChangePercent": 5.92,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "03/30/2020",
+            "label": "06:40 AM",
+            "volume": 0,
+            "high": 34.01,
+            "priceChangePercent": 5.92,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "03/30/2020",
+            "label": "06:45 AM",
+            "volume": 0,
+            "high": 34.01,
+            "priceChangePercent": 5.92,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "03/30/2020",
+            "label": "06:50 AM",
+            "volume": 0,
+            "high": 34.01,
+            "priceChangePercent": 5.92,
+            "volumeChangePercent": -100
+        },
+        
+        {
+            "date": "03/31/2020",
+            "label": "07:55 PM",
+            "volume": 0,
+            "high": 33.5,
+            "priceChangePercent": 4.33,
+            "volumeChangePercent": -100
+        },
+        {
+            "date": "04/01/2020",
+            "label": "04:00 AM",
+            "volume": 2,
+            "high": 32.78,
+            "priceChangePercent": 2.09,
+            "volumeChangePercent": -99.22
+        }
+    ]
+}
